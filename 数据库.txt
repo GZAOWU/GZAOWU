@@ -6,7 +6,7 @@
          "appstate": 1,
          "keystate": 1,
         "appkey": 1141514,
-         "announcement": "狗子愿你们能天天开心\n不要骂人 嗷呜94911919191991~",
+         "announcement": "狗子愿你们能天天开心\n不要骂人 嗷呜QwQ~",
          "peerstatus": 2,
          "devicestatus": 2
     }
