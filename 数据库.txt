@@ -3,7 +3,7 @@
     "data": {
          "appname": "狗子嗷呜小肆月",
         "appversion": 26,
-         "appstate": 1,
+         "appstate": 2,
          "keystate": 1,
         "appkey": 1141514,
          "announcement": "测试",
