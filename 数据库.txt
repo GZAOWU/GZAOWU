@@ -2,7 +2,7 @@
     "code": 1314,
     "data": {
          "appname": "狗子嗷呜小肆月",
-        "appversion": 26,
+        "appversion": 22,
          "appstate": 1,
          "keystate": 1,
         "appkey": 1141514,
