@@ -4,7 +4,7 @@
          "appname": "狗子嗷呜小肆月",
         "appversion": 22,
          "appstate": 1,
-         "keystate": 1,
+         "keystate": 2,
         "appkey": 1141514,
          "announcement": "狗子愿你们能天天开心\n不要骂人 嗷呜QwQ~",
          "peerstatus": 2,
